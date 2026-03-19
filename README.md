@@ -2,7 +2,7 @@
 
 Founder, Process First-Network (PFN)
 
-I am building PFN Protocol — a structured, human-in-the-loop system for diagnosing and eliminating founder dependency in growing and scaling companies.
+I am building PFN Protocol - a structured, human-in-the-loop system for diagnosing and eliminating founder dependency in growing and scaling companies.
 
 ## What I’m Building
 

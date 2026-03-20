@@ -27,5 +27,7 @@ PFN addresses this by enforcing clarity, ownership, and governance before scale.
 
 - Designing state-machine-driven workflow system  
 - Building validation and audit layers  
-- Developing operational diagnostic engine  
+- Developing operational diagnostic engine
+- 
 Update: PFN Protocol architecture iteration v1 (March 2026)
+Refinement: validation + audit layer structure updated

@@ -2,32 +2,45 @@
 
 Founder, Process First-Network (PFN)
 
-I am building PFN Protocol - a structured, human-in-the-loop system for diagnosing and eliminating founder dependency in growing and scaling companies.
+I am building PFN, a system-governed execution platform that eliminates founder dependency through enforced sequencing.
+
+It is built on the Unified Magic Methodology (UMM), a doctrine that governs execution through controlled phases and validated evidence.
+
+## Core Principle
+
+Execution failure is not a people problem.  
+It is a sequencing problem.
 
 ## What I’m Building
 
-PFN Protocol is a system where:
+PFN is a governed execution system in which:
 
-- Founder operations are mapped and analyzed  
-- AI generates diagnostic drafts (not final decisions)  
-- Human validation is required before outputs progress  
-- All changes follow controlled, auditable state transitions  
+- Execution progresses through defined phases  
+- Advancement requires validated evidence  
+- No transitions occur without system state evaluation  
+- All actions are auditable and state-controlled  
+
+AI generates diagnostic drafts.  
+Humans validate.  
+The system governs execution progression.
 
 ## Why This Matters
 
-Most companies break not because of product, but because:
+Most companies break at execution because:
 
-- Decision-making is trapped in the founder  
-- Processes are undocumented or inconsistent  
-- Automation is applied to unstable systems  
+- Decision-making remains trapped in the founder  
+- Processes lack structure and consistency  
+- Automation is applied before stability exists  
 
-PFN addresses this by enforcing clarity, ownership, and governance before scale.
+PFN addresses this by enforcing sequencing, validation, and governance before scale occurs.
 
 ## Current Focus
 
-- Designing state-machine-driven workflow system  
-- Building validation and audit layers  
-- Developing operational diagnostic engine
-- 
-Update: PFN Protocol architecture iteration v1 (March 2026)
-Refinement: validation + audit layer structure updated
+- Designing a state-machine-driven execution system  
+- Building evidence validation and audit layers  
+- Defining doctrine-enforced phase transitions  
+
+## Status
+
+PFN architecture iteration v2 (March 2026)  
+Validation and audit layer refinement in progress

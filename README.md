@@ -2,45 +2,91 @@
 
 Founder, Process First-Network (PFN)
 
-I am building PFN, a system-governed execution platform that eliminates founder dependency through enforced sequencing.
+I am building PFN — a Governed Execution Infrastructure (GEI) that eliminates founder dependency through doctrine-enforced operational sequencing.
 
-It is built on the Unified Magic Methodology (UMM), a doctrine that governs execution through controlled phases and validated evidence.
+---
 
 ## Core Principle
 
-Execution failure is not a people problem.  
+Execution failure is not a people problem.
 It is a sequencing problem.
 
-## What I’m Building
+---
 
-PFN is a governed execution system in which:
+## What I'm Building
 
-- Execution progresses through defined phases  
-- Advancement requires validated evidence  
-- No transitions occur without system state evaluation  
-- All actions are auditable and state-controlled  
+**Process First-Network (PFN)** is the world's first Governed Execution Infrastructure — a non-bypassable state machine that governs how founder-led businesses ($1M–$100M ARR) progress through operational phases.
 
-AI generates diagnostic drafts.  
-Humans validate.  
-The system governs execution progression.
+The system enforces:
+- Phase advancement only on validated evidence — never on human judgment
+- Immutable audit trails of every gate, every actor, every decision
+- Zero override paths — not even for the founder
+
+Built on the **Unified Magic Methodology (UMM)**:
+
+```
+Discovery → Design → Pilot → Scale → Kaizen
+```
+
+This sequence is not optional. It is enforced.
+
+---
+
+## How It Works
+
+- AI generates diagnostic drafts
+- Licensed humans validate evidence
+- The system governs progression
+
+No human action — at any level — can directly trigger a phase transition.
+The `StateEvaluationEngine` is the sole authority over execution state.
+
+---
 
 ## Why This Matters
 
 Most companies break at execution because:
+- Decision-making remains trapped in the founder
+- Processes lack structure and enforced sequencing
+- Automation is applied before stability exists
+- No one knows what "ready" actually means
 
-- Decision-making remains trapped in the founder  
-- Processes lack structure and consistency  
-- Automation is applied before stability exists  
+PFN replaces founder dependency with system-governed execution.
 
-PFN addresses this by enforcing sequencing, validation, and governance before scale occurs.
+---
 
-## Current Focus
+## Current Status
 
-- Designing a state-machine-driven execution system  
-- Building evidence validation and audit layers  
-- Defining doctrine-enforced phase transitions  
+🔴 Pre-implementation — Architecture v3.1 complete. Doctrine frozen. Build in progress.
 
-## Status
+| Layer | Status |
+|-------|--------|
+| Doctrine & Architecture | ✅ Complete — v3.1 |
+| Web Platform (`pfn-platform`) | 🟡 In development |
+| GEI Enforcement Engine (`pfn-gei-engine`) | 🔴 Pre-implementation |
 
-PFN architecture iteration v2 (March 2026)  
-Validation and audit layer refinement in progress
+---
+
+## Repositories
+
+| Repository | Description |
+|------------|-------------|
+| [`pfn-platform`](https://github.com/Waterman71717/pfn-platform) | Web platform — client/expert portals, vetting, payments |
+| [`pfn-gei-engine`](https://github.com/Waterman71717/pfn-gei-engine) | GEI enforcement layer — StateEvaluationEngine, 10 bounded services |
+
+---
+
+## Background
+
+- Scaled and operationally collapsed a company — firsthand experience with founder dependency
+- Consulted across founder-led businesses in Austin, Lagos, and Nairobi
+- Author of *Startup Process Improvement Vol. 1: Turning Chaos into Cash* (2025)
+
+---
+
+## Contact
+
+**Process First-Network (PFN)**
+Email: Info@processfirst-network.com
+
+For licensing, institutional agreements, or authorized engagements.

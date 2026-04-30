@@ -2,7 +2,7 @@
 
 Founder, Process First-Network (PFN)
 
-I am building PFN — a Governed Execution Infrastructure (GEI) that eliminates founder dependency through doctrine-enforced operational sequencing.
+I am building PFN - a Governed Execution Infrastructure (GEI) that eliminates founder dependency through doctrine-enforced operational sequencing.
 
 ---
 

@@ -1,8 +1,8 @@
 # Emmanuel Bakare
 
-Founder, Process First-Network (PFN)
+Founder, Process First Network (PFN)
 
-I am building PFN - a Governed Execution Infrastructure (GEI) that eliminates founder dependency through doctrine-enforced operational sequencing.
+I built PFN — Evidence-Governed Scaling Infrastructure that eliminates founder dependency through doctrine-enforced operational sequencing.
 
 ---
 
@@ -15,7 +15,7 @@ It is a sequencing problem.
 
 ## What I'm Building
 
-**Process First-Network (PFN)** is the world's first Governed Execution Infrastructure — a non-bypassable state machine that governs how founder-led businesses ($1M–$100M ARR) progress through operational phases.
+**Process First Network (PFN)** is Evidence-Governed Scaling Infrastructure — a non-bypassable state machine that governs how founder-led businesses ($1M–$100M ARR) progress through operational phases.
 
 The system enforces:
 - Phase advancement only on validated evidence — never on human judgment
@@ -57,13 +57,13 @@ PFN replaces founder dependency with system-governed execution.
 
 ## Current Status
 
-🔴 Pre-implementation — Architecture v3.1 complete. Doctrine frozen. Build in progress.
+🟡 Platform live, in active testing — Architecture v3.1 complete. Doctrine frozen.
 
 | Layer | Status |
 |-------|--------|
 | Doctrine & Architecture | ✅ Complete — v3.1 |
-| Web Platform (`pfn-platform`) | 🟡 In development |
-| GEI Enforcement Engine (`pfn-gei-engine`) | 🔴 Pre-implementation |
+| Web Platform (`pfn-platform`) | 🟡 Deployed, active testing |
+| GEI Enforcement Engine (`pfn-gei-engine`) | 🟡 In development — first end-to-end enforcement pending |
 
 ---
 
@@ -86,7 +86,7 @@ PFN replaces founder dependency with system-governed execution.
 
 ## Contact
 
-**Process First-Network (PFN)**
-Email: Info@processfirst-network.com
+**Process First Network (PFN)**
+Email: info@processfirst-network.com
 
 For licensing, institutional agreements, or authorized engagements.

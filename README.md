@@ -2,7 +2,7 @@
 
 Founder, Process First Network (PFN)
 
-I built PFN — Evidence-Governed Scaling Infrastructure that eliminates founder dependency through doctrine-enforced operational sequencing.
+I built PFN - Evidence-Governed Scaling Infrastructure that eliminates founder dependency through doctrine-enforced operational sequencing.
 
 ---
 

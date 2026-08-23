@@ -41,6 +41,12 @@ This sequence is not optional. It is enforced.
 No human action — at any level — can directly trigger a phase transition.
 The `StateEvaluationEngine` is the sole authority over execution state.
 
+This is not aspirational. The first governed phase transition ran in production
+on **18 August 2026** — evaluated, cleared, and advanced with no human in the
+path. The engine had already refused to advance the same diagnostic against an
+unmet evidence gate. **Refusing is the product; advancing is what happens when
+refusal is no longer warranted.**
+
 ---
 
 ## Why This Matters
@@ -57,22 +63,26 @@ PFN replaces founder dependency with system-governed execution.
 
 ## Current Status
 
-🟡 Platform live, in active testing — Architecture v3.1 complete. Doctrine frozen.
+🟢 Platform live. Engine live and enforcing — the first governed phase
+transition executed 18 August 2026. Architecture v3.1 complete. Doctrine frozen.
 
 | Layer | Status |
 |-------|--------|
 | Doctrine & Architecture | ✅ Complete — v3.1 |
-| Web Platform (`pfn-platform`) | 🟡 Deployed, active testing |
-| GEI Enforcement Engine (`pfn-gei-engine`) | 🟡 In development — first end-to-end enforcement pending |
+| Web Platform (`pfn-platform`) | 🟢 Live — full engagement path exercised end to end |
+| GEI Enforcement Engine (`pfn-gei-engine`) | 🟢 Live — Discovery → Design transition executed under enforcement |
 
 ---
 
 ## Repositories
 
-| Repository | Description |
-|------------|-------------|
-| [`pfn-platform`](https://github.com/Waterman71717/pfn-platform) | Web platform — client/expert portals, vetting, payments |
-| [`pfn-gei-engine`](https://github.com/Waterman71717/pfn-gei-engine) | GEI enforcement layer — StateEvaluationEngine, 10 bounded services |
+**Doctrine is public. Execution is licensed.**
+
+| Repository | Access | Description |
+|------------|--------|-------------|
+| [`pfn-canonical-boundary`](https://github.com/Waterman71717/pfn-canonical-boundary) | Public | Canonical UMM doctrine, governance boundaries, prior-art publications |
+| `pfn-platform` | Private | Web platform — Organization and Governance Officer portals, GO vetting, payments |
+| `pfn-gei-engine` | Private | GEI enforcement layer — StateEvaluationEngine and the bounded enforcement services |
 
 ---
 

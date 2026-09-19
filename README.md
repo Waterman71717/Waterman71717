@@ -1,4 +1,4 @@
-# Emmanuel Bakare
+# Emmanuel Waterman
 
 Founder, Process First Network (PFN)
 
